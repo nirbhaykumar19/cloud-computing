@@ -12,6 +12,8 @@ and strict cost control.
 - Ops Agent for monitoring and logging
 - IAM separation between human users and VM identities
 
+<img width="1878" height="853" alt="image" src="https://github.com/user-attachments/assets/e5e3f1c8-de7e-4611-b7a3-83550fa8d9a6" />
+
 ## Autoscaling Logic
 - Minimum instances: 1
 - Maximum instances: 3
@@ -31,4 +33,5 @@ and strict cost control.
 - Designed to operate within free credits
 
 ## Cleanup
+
 Delete the Managed Instance Group to terminate all VMs and stop billing.
